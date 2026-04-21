@@ -1,0 +1,208 @@
+COMMERCIAL LEASE AGREEMENT
+
+Lease Number: CL-2024-5571
+Execution Date: May 1, 2024
+
+BETWEEN:
+
+(1) Ironbridge Properties LLC, a Texas limited liability company ("Landlord")
+    Address: 2200 Post Oak Boulevard, Suite 1800, Houston, TX 77056
+
+(2) Quantum Analytics Corp., a California corporation ("Tenant")
+    Address: (current) 450 Mission Street, San Francisco, CA 94105
+
+PREMISES: Suite 2400, comprising approximately twelve thousand five hundred (12,500) rentable square feet on the 24th floor of the building located at 600 Travis Street, Houston, TX 77002 (the "Building").
+
+1. DEFINITIONS
+
+1.1 "Base Rent" means the monthly rental amount payable by the Tenant as set forth in Section 4.1.
+
+1.2 "Building Standard" means the quality and specifications of materials, finishes, and construction methods generally used in comparable Class A office buildings in downtown Houston.
+
+1.3 "Common Areas" means all areas of the Building intended for common use, including lobbies, corridors, elevators, stairwells, restrooms, parking areas, loading docks, and mechanical rooms.
+
+1.4 "Commencement Date" means August 1, 2024, or the date on which the Tenant Improvements (as defined in Exhibit B) are substantially completed, whichever is later.
+
+1.5 "Lease Year" means each consecutive twelve (12) month period commencing on the Commencement Date.
+
+1.6 "Operating Expenses" means all costs and expenses incurred by the Landlord in the operation, management, maintenance, and repair of the Building and the Common Areas, including but not limited to property taxes, insurance, utilities, janitorial services, security, landscaping, management fees (not to exceed four percent (4%) of gross revenues), and capital improvements amortized over their useful life.
+
+1.7 "Permitted Use" means general office use, including technology consulting, data analytics, software development, and related administrative functions.
+
+1.8 "Rentable Area" means the area calculated in accordance with the Building Owners and Managers Association (BOMA) International Standard Method of Measurement.
+
+1.9 "Security Deposit" means the amount specified in Section 4.5.
+
+1.10 "Tenant Improvements" means the construction, alterations, and improvements to the Premises as described in Exhibit B.
+
+1.11 "Term" means the period commencing on the Commencement Date and ending on the Expiration Date, as defined in Section 3.1.
+
+2. GRANT OF LEASE
+
+2.1 Lease Grant. The Landlord hereby leases to the Tenant, and the Tenant hereby leases from the Landlord, the Premises for the Term, subject to the terms and conditions of this Lease.
+
+2.2 Condition of Premises. The Landlord shall deliver the Premises in broom-clean condition, with all Building systems serving the Premises in good working order, including HVAC, electrical, plumbing, fire suppression, and elevator systems.
+
+2.3 Quiet Enjoyment. The Landlord covenants that the Tenant, upon paying the Rent and performing its obligations hereunder, shall peaceably and quietly enjoy the Premises during the Term without interference from the Landlord or any party claiming through the Landlord.
+
+3. TERM
+
+3.1 Initial Term. The initial Term of this Lease shall be seven (7) years, commencing on the Commencement Date and expiring on July 31, 2031 (the "Expiration Date"), unless earlier terminated as provided herein.
+
+3.2 Renewal Options. The Tenant shall have two (2) options to renew this Lease for additional periods of five (5) years each (each a "Renewal Term"), exercisable by written notice to the Landlord no later than twelve (12) months prior to the expiration of the then-current Term. The Base Rent for each Renewal Term shall be the greater of:
+(a) The Base Rent in effect during the last month of the preceding Term; or
+(b) The then-prevailing fair market rental rate for comparable Class A office space in downtown Houston, as determined by mutual agreement or, failing agreement, by an independent appraiser selected jointly by the Parties.
+
+3.3 Right of First Refusal. The Tenant shall have a right of first refusal on any contiguous space on the 24th floor that becomes available during the Term. The Landlord shall notify the Tenant in writing when such space becomes available, and the Tenant shall have fifteen (15) business days to exercise this right on terms no less favorable than those offered to any third party.
+
+3.4 Early Termination. The Tenant may terminate this Lease effective at the end of Lease Year 5 by providing at least twelve (12) months' prior written notice and paying an early termination fee equal to:
+(a) Six (6) months of then-current Base Rent; plus
+(b) The unamortized portion of the Tenant Improvement Allowance (as defined in Section 5.2); plus
+(c) The unamortized portion of any brokerage commissions paid by the Landlord.
+
+4. RENT
+
+4.1 Base Rent. The Tenant shall pay Base Rent as follows:
+(a) Lease Years 1-3: $38.00 per rentable square foot per annum ($39,583.33 per month);
+(b) Lease Years 4-5: $40.00 per rentable square foot per annum ($41,666.67 per month);
+(c) Lease Years 6-7: $42.00 per rentable square foot per annum ($43,750.00 per month).
+
+4.2 Rent Abatement. The Tenant shall receive a rent abatement for the first four (4) months of Lease Year 1 (the "Abatement Period"). During the Abatement Period, the Tenant shall not be required to pay Base Rent but shall remain responsible for its share of Operating Expenses and all other charges under this Lease.
+
+4.3 Operating Expense Pass-Throughs. Commencing in Lease Year 2, the Tenant shall pay its proportionate share of increases in Operating Expenses over the Base Year (defined as calendar year 2024) amount. The Tenant's proportionate share shall be calculated as the ratio of the Rentable Area of the Premises to the total Rentable Area of the Building, which is approximately four and one-half percent (4.5%).
+
+4.4 Payment. Base Rent and all additional rent shall be payable in advance on the first day of each calendar month by electronic funds transfer to an account designated by the Landlord. If any payment is more than five (5) days late, the Tenant shall pay a late charge equal to four percent (4%) of the overdue amount, plus interest at the rate of one percent (1%) per month.
+
+4.5 Security Deposit. Upon execution of this Lease, the Tenant shall deliver to the Landlord a security deposit in the amount of eighty-three thousand three hundred thirty-three dollars and thirty-four cents ($83,333.34), equal to two (2) months of initial Base Rent. The security deposit may be in the form of cash or an irrevocable letter of credit from a nationally recognized financial institution. The Landlord shall return the security deposit, less any amounts applied for defaults, within thirty (30) days after the Tenant vacates the Premises.
+
+5. TENANT IMPROVEMENTS
+
+5.1 Tenant Improvement Plans. The Tenant shall submit plans and specifications for the Tenant Improvements ("TI Plans") to the Landlord for approval within sixty (60) days of the Execution Date. The Landlord shall not unreasonably withhold, condition, or delay approval of the TI Plans.
+
+5.2 Tenant Improvement Allowance. The Landlord shall provide a tenant improvement allowance of sixty-five dollars ($65.00) per rentable square foot (totaling eight hundred twelve thousand five hundred dollars ($812,500)) (the "TI Allowance") toward the cost of the Tenant Improvements. Costs exceeding the TI Allowance shall be borne by the Tenant.
+
+5.3 Construction. The Tenant Improvements shall be performed by a contractor selected by the Tenant and approved by the Landlord (such approval not to be unreasonably withheld). All construction shall comply with applicable building codes, the Americans with Disabilities Act, and the Landlord's building rules and regulations.
+
+5.4 Substantial Completion. "Substantial Completion" of the Tenant Improvements means the date on which:
+(a) The Tenant Improvements are completed in accordance with the approved TI Plans, except for minor punch list items;
+(b) A certificate of occupancy (or temporary certificate of occupancy) has been issued;
+(c) All Building systems serving the Premises are operational.
+
+6. USE AND OPERATIONS
+
+6.1 Permitted Use. The Tenant shall use the Premises solely for the Permitted Use and shall not use the Premises for any unlawful purpose or in any manner that would increase the Landlord's insurance premiums.
+
+6.2 Compliance with Laws. The Tenant shall, at its expense, comply with all applicable federal, state, and local laws, ordinances, regulations, and codes in its use of the Premises, including fire safety, ADA, and environmental regulations.
+
+6.3 Hazardous Materials. The Tenant shall not bring, use, store, or dispose of any Hazardous Materials (as defined by applicable environmental laws) in or about the Premises, except for ordinary office supplies in quantities and manner consistent with normal office use and applicable regulations.
+
+6.4 Signage. The Tenant shall be entitled to:
+(a) Suite identification signage adjacent to the entry of the Premises, consistent with the Building's signage standards;
+(b) Listing on the Building's lobby directory;
+(c) The right to install one (1) identifying sign on the Building exterior, subject to Landlord approval, applicable permits, and local signage ordinances.
+
+6.5 Parking. The Landlord shall provide the Tenant with forty (40) unreserved parking spaces in the Building's garage at no additional charge during the initial Term, with an option to lease up to ten (10) additional reserved spaces at the then-prevailing monthly rate.
+
+7. MAINTENANCE AND REPAIRS
+
+7.1 Landlord Obligations. The Landlord shall maintain in good condition and repair:
+(a) The structural components of the Building, including the roof, exterior walls, foundation, and load-bearing elements;
+(b) The Building's common systems, including HVAC, electrical, plumbing, elevators, and fire suppression;
+(c) The Common Areas, including lobbies, corridors, restrooms, and parking areas;
+(d) The Building exterior, including windows, landscaping, and signage.
+
+7.2 Tenant Obligations. The Tenant shall maintain the Premises in good condition and repair, including:
+(a) Interior walls, ceilings, and floor coverings;
+(b) Interior doors, fixtures, and equipment;
+(c) Any supplemental HVAC or electrical systems installed by the Tenant;
+(d) Any modifications or improvements made by the Tenant.
+
+7.3 Emergency Repairs. In the event of an emergency threatening life, safety, or property, either Party may perform necessary repairs without prior notice. The Party performing emergency repairs shall notify the other Party as soon as practicable.
+
+8. INSURANCE
+
+8.1 Tenant Insurance. The Tenant shall maintain throughout the Term:
+(a) Commercial general liability insurance with limits of not less than $2,000,000 per occurrence and $5,000,000 aggregate;
+(b) Property insurance covering the Tenant's personal property, equipment, and improvements for their full replacement cost;
+(c) Workers' compensation insurance as required by law;
+(d) Business interruption insurance covering at least twelve (12) months of rent and operating expenses.
+
+8.2 Landlord Insurance. The Landlord shall maintain fire and extended coverage insurance on the Building for its full replacement cost, commercial general liability insurance, and such other insurance as the Landlord deems prudent or as required by the Landlord's mortgage lender.
+
+8.3 Waiver of Subrogation. Each Party waives any right of recovery against the other Party for any loss or damage covered by insurance required under this Lease.
+
+8.4 Additional Insured. The Tenant shall name the Landlord as an additional insured on its commercial general liability policy. The Landlord shall name the Tenant as an additional insured on its property insurance with respect to the Premises.
+
+9. DAMAGE AND DESTRUCTION
+
+9.1 Partial Damage. If the Premises are damaged by fire or other casualty but remain substantially tenantable, the Landlord shall repair the damage within one hundred eighty (180) days. Base Rent shall be abated proportionally based on the unusable portion of the Premises.
+
+9.2 Total Destruction. If the Premises or a substantial portion of the Building are destroyed or rendered untenantable, and the Landlord reasonably estimates that restoration will require more than two hundred seventy (270) days, either Party may terminate this Lease by written notice within thirty (30) days of the damage.
+
+9.3 Tenant's Property. The Landlord shall have no obligation to repair or replace the Tenant's personal property, improvements, or alterations.
+
+10. DEFAULT AND REMEDIES
+
+10.1 Tenant Default. The following shall constitute a "Tenant Default":
+(a) Failure to pay Rent within ten (10) days after written notice of non-payment;
+(b) Failure to perform any non-monetary obligation within thirty (30) days after written notice, or such longer period as reasonably necessary to cure, provided the Tenant commences the cure within thirty (30) days and diligently pursues it to completion;
+(c) Filing of a petition in bankruptcy by or against the Tenant;
+(d) Assignment for the benefit of creditors;
+(e) Abandonment of the Premises.
+
+10.2 Landlord Remedies. Upon a Tenant Default, the Landlord may:
+(a) Terminate this Lease and recover possession of the Premises;
+(b) Re-enter and relet the Premises on the Tenant's behalf;
+(c) Recover from the Tenant all damages, including unpaid Rent, re-letting costs, and the present value of the difference between the Rent and the fair market rental value for the remaining Term;
+(d) Exercise any other remedy available at law or in equity.
+
+10.3 Landlord Default. The Landlord shall be in default if it fails to perform any material obligation within thirty (30) days of written notice. If the Landlord fails to cure within such period, the Tenant may:
+(a) Cure the default and offset reasonable costs against Rent;
+(b) Seek specific performance or injunctive relief;
+(c) Terminate this Lease if the default materially impairs the Tenant's use of the Premises.
+
+11. ASSIGNMENT AND SUBLETTING
+
+11.1 Restriction. The Tenant shall not assign this Lease or sublet any portion of the Premises without the Landlord's prior written consent, which shall not be unreasonably withheld, conditioned, or delayed.
+
+11.2 Consent Criteria. The Landlord may consider the following in evaluating a proposed assignment or subletting:
+(a) The financial strength of the proposed assignee or subtenant;
+(b) The proposed use of the Premises;
+(c) The reputation and business character of the proposed assignee or subtenant;
+(d) The impact on the Building's tenant mix.
+
+11.3 Excess Proceeds. If the Tenant assigns or sublets at a rental rate exceeding the Base Rent, the Tenant shall pay to the Landlord fifty percent (50%) of such excess, after deducting reasonable transaction costs.
+
+11.4 Permitted Transfers. Notwithstanding Section 11.1, the Tenant may, without the Landlord's consent, assign this Lease or sublet the Premises to:
+(a) An Affiliate of the Tenant;
+(b) A successor by merger, consolidation, or reorganization;
+(c) A purchaser of substantially all of the Tenant's assets;
+provided that the assignee or subtenant assumes all obligations under this Lease and has a net worth at least equal to the Tenant's net worth as of the Execution Date.
+
+12. GENERAL PROVISIONS
+
+12.1 Governing Law. This Lease shall be governed by the laws of the State of Texas.
+
+12.2 Notices. All notices shall be in writing and delivered by certified mail, nationally recognized overnight courier, or personal delivery to the addresses set forth above.
+
+12.3 Estoppel Certificates. Each Party shall, within fifteen (15) days of written request, execute and deliver an estoppel certificate confirming the status of this Lease.
+
+12.4 Subordination. This Lease shall be subordinate to any mortgage or deed of trust now or hereafter encumbering the Building, provided the mortgage holder agrees not to disturb the Tenant's possession so long as the Tenant is not in default.
+
+12.5 Force Majeure. Neither Party shall be in default for delays in performance caused by Force Majeure Events, except that Force Majeure shall not excuse the Tenant's obligation to pay Rent.
+
+12.6 Entire Agreement. This Lease, including all exhibits, constitutes the entire agreement between the Parties and supersedes all prior negotiations and agreements.
+
+12.7 Amendments. This Lease may only be amended by a written instrument signed by both Parties.
+
+12.8 Severability. If any provision is held invalid, the remainder shall continue in effect.
+
+12.9 Brokers. Each Party represents that it has not engaged any broker except Marcus & Millichap (representing the Landlord) and CBRE (representing the Tenant). The Landlord shall pay all brokerage commissions pursuant to separate agreements.
+
+IN WITNESS WHEREOF, the Parties have executed this Lease as of the Execution Date.
+
+IRONBRIDGE PROPERTIES LLC                  QUANTUM ANALYTICS CORP.
+By: ___________________________            By: ___________________________
+Name: Richard Donovan                      Name: Priya Mehta
+Title: Managing Partner                    Title: Chief Financial Officer
+Date: May 1, 2024                          Date: May 1, 2024

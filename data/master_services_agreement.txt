@@ -1,0 +1,278 @@
+MASTER SERVICES AGREEMENT (MSA)
+
+Agreement Number: MSA-2024-0893
+Effective Date: April 15, 2024
+
+BETWEEN:
+
+(1) Vertex Data Solutions Inc., a Delaware corporation ("Service Provider")
+    Address: 8900 Research Park Drive, Suite 300, Raleigh, NC 27615
+
+(2) Meridian Healthcare Systems, a Maryland corporation ("Client")
+    Address: 1250 West Pratt Street, Baltimore, MD 21223
+
+RECITALS
+
+WHEREAS, the Service Provider is engaged in the business of providing data analytics, software development, and IT consulting services; and
+
+WHEREAS, the Client desires to engage the Service Provider to perform certain professional services as described in individual Statements of Work; and
+
+WHEREAS, the Parties wish to establish the general terms and conditions governing such engagement;
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants contained herein, the Parties agree as follows:
+
+1. DEFINITIONS
+
+1.1 "Affiliate" means any entity that directly or indirectly controls, is controlled by, or is under common control with a Party, where "control" means the ownership of more than fifty percent (50%) of the voting securities or equivalent ownership interest.
+
+1.2 "Background IP" means all intellectual property owned or licensed by a Party prior to the Effective Date, or developed by a Party independently of this Agreement.
+
+1.3 "Change Order" means a written amendment to an existing Statement of Work, agreed upon by both Parties, that modifies the scope, timeline, or fees of the services described therein.
+
+1.4 "Confidential Information" means any non-public information disclosed by either Party to the other, including but not limited to technical data, trade secrets, business plans, financial information, customer data, patient health information, and proprietary methodologies.
+
+1.5 "Deliverables" means all work product, reports, software, documentation, and other materials created by the Service Provider in the performance of services under a Statement of Work.
+
+1.6 "Effective Date" means the date set forth above.
+
+1.7 "Fees" means the compensation payable to the Service Provider for services performed, as specified in each Statement of Work.
+
+1.8 "Force Majeure Event" means any event beyond the reasonable control of a Party, including but not limited to natural disasters, acts of war or terrorism, pandemics, government actions, labor disputes, power failures, and internet or telecommunications failures.
+
+1.9 "HIPAA" means the Health Insurance Portability and Accountability Act of 1996, as amended, together with its implementing regulations.
+
+1.10 "Key Personnel" means the specific individuals identified in a Statement of Work as essential to the performance of the services.
+
+1.11 "Protected Health Information" or "PHI" means any individually identifiable health information, as defined under HIPAA, that the Service Provider may access, create, receive, maintain, or transmit on behalf of the Client.
+
+1.12 "Statement of Work" or "SOW" means a written document, executed by both Parties, that describes the specific services to be performed, deliverables, timelines, fees, and acceptance criteria, substantially in the form attached as Exhibit A.
+
+2. SCOPE OF SERVICES
+
+2.1 Engagement. The Service Provider shall perform the professional services described in each Statement of Work executed by the Parties during the term of this Agreement. Each SOW shall be governed by the terms of this Agreement and shall be incorporated herein by reference.
+
+2.2 Statements of Work. Each SOW shall include, at a minimum:
+(a) A description of the services to be performed;
+(b) Deliverables and acceptance criteria;
+(c) Project timeline and milestones;
+(d) Fees and payment schedule;
+(e) Identification of Key Personnel, if applicable;
+(f) Any additional terms specific to the engagement.
+
+2.3 Order of Precedence. In the event of a conflict between the terms of this Agreement and any SOW, the terms of this Agreement shall prevail unless the SOW expressly states that it is intended to supersede a specific provision of this Agreement.
+
+2.4 Change Orders. Either Party may request changes to an SOW by submitting a written Change Order request. No changes shall be effective unless documented in a Change Order signed by authorized representatives of both Parties. The Service Provider shall assess the impact of any proposed change on timeline, cost, and scope within five (5) business days of receiving the request.
+
+2.5 Subcontractors. The Service Provider may engage subcontractors to perform portions of the services, provided that:
+(a) The Service Provider obtains the Client's prior written consent, which shall not be unreasonably withheld;
+(b) Any subcontractor is bound by confidentiality and data protection obligations at least as restrictive as those in this Agreement;
+(c) The Service Provider remains fully responsible for the performance and compliance of its subcontractors.
+
+3. FEES AND PAYMENT
+
+3.1 Fee Structure. Fees for services shall be as specified in each SOW and may include:
+(a) Time and materials rates for personnel at various skill levels;
+(b) Fixed-price engagements for defined deliverables;
+(c) Milestone-based payments tied to deliverable acceptance;
+(d) Retainer arrangements for ongoing support services.
+
+3.2 Rate Card. The Service Provider's standard hourly rates for the initial term are:
+(a) Principal Consultant: $350 per hour;
+(b) Senior Consultant: $275 per hour;
+(c) Consultant: $200 per hour;
+(d) Associate Consultant: $150 per hour;
+(e) Project Manager: $225 per hour.
+Rates are subject to adjustment as provided in Section 3.6.
+
+3.3 Invoicing. The Service Provider shall submit invoices monthly in arrears for time-and-materials engagements, or upon achievement of milestones for fixed-price engagements, as specified in the applicable SOW.
+
+3.4 Payment Terms. The Client shall pay all undisputed invoices within forty-five (45) days of receipt. The Client may withhold payment only for amounts disputed in good faith, provided the Client notifies the Service Provider in writing of the disputed amount and the basis for the dispute within fifteen (15) days of receipt of the invoice.
+
+3.5 Late Payment. Overdue amounts shall accrue interest at the lesser of one and one-half percent (1.5%) per month or the maximum rate permitted by applicable law.
+
+3.6 Rate Adjustments. The Service Provider may adjust its rates annually, effective on each anniversary of the Effective Date, by providing at least sixty (60) days' prior written notice. Rate increases shall not exceed the greater of (a) four percent (4%) or (b) the percentage increase in the Consumer Price Index for All Urban Consumers (CPI-U) for the preceding twelve-month period.
+
+3.7 Expenses. The Client shall reimburse the Service Provider for reasonable, pre-approved travel and out-of-pocket expenses incurred in connection with the performance of services. Expenses exceeding five hundred dollars ($500) per occurrence require prior written approval from the Client.
+
+3.8 Taxes. All Fees are exclusive of applicable taxes. The Client shall be responsible for all sales, use, value-added, and similar taxes, excluding taxes based on the Service Provider's net income.
+
+4. INTELLECTUAL PROPERTY
+
+4.1 Background IP. Each Party retains all right, title, and interest in its Background IP. Neither Party shall acquire any rights in the other Party's Background IP except as expressly granted herein.
+
+4.2 Deliverables. Subject to full payment of all applicable Fees:
+(a) All Deliverables that constitute original works of authorship shall be considered "works made for hire" as defined under the United States Copyright Act. To the extent any Deliverable does not qualify as a work made for hire, the Service Provider hereby irrevocably assigns to the Client all right, title, and interest in and to such Deliverable.
+(b) The Client shall own all custom software, documentation, and materials specifically created for the Client under an SOW.
+
+4.3 Service Provider Tools. Notwithstanding Section 4.2, the Service Provider retains ownership of:
+(a) Pre-existing tools, frameworks, libraries, and methodologies ("Service Provider Tools") used in the delivery of services;
+(b) General knowledge, skills, experience, and know-how developed or refined during the engagement;
+(c) Generic, non-Client-specific components that may be incorporated into Deliverables.
+The Service Provider grants the Client a perpetual, non-exclusive, royalty-free license to use any Service Provider Tools incorporated into a Deliverable, solely in connection with the Client's use of such Deliverable.
+
+4.4 License Back. The Client grants the Service Provider a limited, non-exclusive license to use the Deliverables solely for the purpose of performing services under this Agreement. This license terminates upon expiration or termination of this Agreement.
+
+4.5 Open Source Software. The Service Provider shall not incorporate any open source software into Deliverables without the Client's prior written approval. The Service Provider shall maintain a register of all open source components used and provide it to the Client upon request.
+
+5. CONFIDENTIALITY AND DATA PROTECTION
+
+5.1 Confidentiality Obligations. Each Party (as "Receiving Party") shall:
+(a) Hold the other Party's (as "Disclosing Party") Confidential Information in strict confidence;
+(b) Not disclose Confidential Information to any third party without prior written consent;
+(c) Use Confidential Information only for purposes of this Agreement;
+(d) Protect Confidential Information with at least the same degree of care used for its own confidential information, but not less than reasonable care;
+(e) Limit access to Confidential Information to those employees, agents, and subcontractors who have a need to know and are bound by confidentiality obligations at least as protective as this Agreement.
+
+5.2 Exclusions. Confidential Information does not include information that:
+(a) Is or becomes publicly available through no fault of the Receiving Party;
+(b) Was known to the Receiving Party prior to disclosure;
+(c) Is independently developed without use of Confidential Information;
+(d) Is received from a third party without restriction on disclosure.
+
+5.3 Compelled Disclosure. If the Receiving Party is compelled by law or regulation to disclose Confidential Information, it shall provide prompt notice to the Disclosing Party and cooperate with efforts to obtain a protective order.
+
+5.4 HIPAA Compliance. The Service Provider acknowledges that it may have access to PHI in the course of providing services. The Service Provider agrees to:
+(a) Enter into a Business Associate Agreement ("BAA") in the form attached as Exhibit B;
+(b) Comply with all applicable requirements of HIPAA and the HITECH Act;
+(c) Implement administrative, physical, and technical safeguards appropriate to protect PHI;
+(d) Report any security incident or breach involving PHI within twenty-four (24) hours of discovery;
+(e) Return or destroy all PHI upon termination of the applicable SOW or this Agreement.
+
+5.5 Data Security Standards. The Service Provider shall maintain, at a minimum:
+(a) SOC 2 Type II certification;
+(b) Encryption of data at rest (AES-256) and in transit (TLS 1.2 or higher);
+(c) Multi-factor authentication for all access to Client systems and data;
+(d) Annual penetration testing by a qualified independent third party;
+(e) Employee background checks for all personnel with access to Client data;
+(f) A documented incident response plan tested at least annually.
+
+5.6 Data Breach Notification. In the event of a confirmed data breach affecting Client data or PHI, the Service Provider shall:
+(a) Notify the Client within twenty-four (24) hours of confirmation;
+(b) Provide a detailed incident report within seventy-two (72) hours;
+(c) Cooperate with the Client's investigation and regulatory notifications;
+(d) Take immediate remedial action;
+(e) Bear the costs of credit monitoring or notification services if required by law.
+
+5.7 Survival. The confidentiality obligations under this Section 5 shall survive termination of this Agreement for a period of five (5) years, except with respect to trade secrets, which shall be protected indefinitely.
+
+6. REPRESENTATIONS AND WARRANTIES
+
+6.1 Mutual Representations. Each Party represents and warrants that:
+(a) It has the authority to enter into this Agreement;
+(b) The execution of this Agreement does not conflict with any other agreement;
+(c) It shall comply with all applicable laws and regulations.
+
+6.2 Service Provider Warranties. The Service Provider warrants that:
+(a) Services shall be performed in a professional and workmanlike manner, consistent with generally accepted industry standards;
+(b) All personnel assigned to perform services shall be qualified and experienced;
+(c) Deliverables shall materially conform to the specifications in the applicable SOW for a period of ninety (90) days following acceptance ("Warranty Period");
+(d) Deliverables shall not infringe any third-party intellectual property rights;
+(e) The Service Provider is in compliance with all applicable healthcare regulations, including HIPAA.
+
+6.3 Warranty Remedy. During the Warranty Period, the Service Provider shall, at no additional cost, correct any Deliverable that does not conform to the applicable specifications. If the Service Provider fails to correct the nonconformity within thirty (30) days of notice, the Client may, at its option:
+(a) Require the Service Provider to re-perform the services at no charge;
+(b) Engage a third party to correct the nonconformity and recover reasonable costs from the Service Provider;
+(c) Terminate the applicable SOW and receive a refund of Fees paid for the nonconforming Deliverable.
+
+6.4 Disclaimer. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE SERVICE PROVIDER MAKES NO OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+7. INDEMNIFICATION
+
+7.1 Service Provider Indemnification. The Service Provider shall defend, indemnify, and hold harmless the Client, its Affiliates, and their respective officers, directors, employees, and agents from and against any third-party claims, losses, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising from:
+(a) The Service Provider's breach of this Agreement;
+(b) The Service Provider's negligence or willful misconduct;
+(c) Infringement of third-party intellectual property rights by Deliverables;
+(d) Violation of applicable laws or regulations by the Service Provider;
+(e) Any data breach or security incident caused by the Service Provider's failure to comply with Section 5.
+
+7.2 Client Indemnification. The Client shall defend, indemnify, and hold harmless the Service Provider from and against any third-party claims arising from:
+(a) The Client's breach of this Agreement;
+(b) The Client's negligence or willful misconduct;
+(c) The Client's use of Deliverables in a manner not authorized by this Agreement;
+(d) Client data that infringes third-party rights.
+
+7.3 Indemnification Procedures. The indemnified Party shall:
+(a) Promptly notify the indemnifying Party of any claim;
+(b) Grant the indemnifying Party sole control of the defense and settlement;
+(c) Provide reasonable cooperation at the indemnifying Party's expense.
+
+8. LIMITATION OF LIABILITY
+
+8.1 Cap. EXCEPT FOR (I) BREACHES OF SECTION 5 (CONFIDENTIALITY AND DATA PROTECTION), (II) INDEMNIFICATION OBLIGATIONS UNDER SECTION 7, AND (III) A PARTY'S GROSS NEGLIGENCE OR WILLFUL MISCONDUCT, NEITHER PARTY'S AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL EXCEED THE GREATER OF (A) THE TOTAL FEES PAID OR PAYABLE UNDER THE APPLICABLE SOW GIVING RISE TO THE CLAIM OR (B) ONE MILLION DOLLARS ($1,000,000).
+
+8.2 Exclusion. IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOSS OF PROFITS, DATA, REVENUE, OR BUSINESS OPPORTUNITY, REGARDLESS OF WHETHER SUCH DAMAGES ARE FORESEEABLE.
+
+8.3 Data Breach Liability. The Service Provider's aggregate liability for data breaches or HIPAA violations shall not exceed three times (3x) the annual Fees paid under this Agreement.
+
+8.4 Essential Basis. The limitations set forth in this Section 8 reflect the allocation of risk between the Parties and are an essential basis of the bargain.
+
+9. TERM AND TERMINATION
+
+9.1 Initial Term. This Agreement shall commence on the Effective Date and continue for a period of three (3) years (the "Initial Term").
+
+9.2 Renewal. This Agreement shall automatically renew for successive one (1) year terms unless either Party provides written notice of non-renewal at least ninety (90) days prior to the end of the then-current term.
+
+9.3 Termination for Cause. Either Party may terminate this Agreement or any SOW upon written notice if the other Party:
+(a) Materially breaches this Agreement and fails to cure such breach within thirty (30) days of receiving written notice;
+(b) Becomes insolvent, files for bankruptcy protection, or ceases operations;
+(c) Is found to be in material violation of applicable healthcare regulations.
+
+9.4 Termination for Convenience. Either Party may terminate this Agreement for convenience upon one hundred twenty (120) days' written notice. Termination for convenience of an individual SOW requires sixty (60) days' notice.
+
+9.5 Effect of Termination. Upon termination or expiration:
+(a) The Service Provider shall complete any work in progress under active SOWs unless otherwise directed by the Client;
+(b) The Client shall pay for all services performed and expenses incurred through the effective date of termination;
+(c) Each Party shall return or destroy the other Party's Confidential Information within thirty (30) days;
+(d) The Service Provider shall provide reasonable transition assistance for a period of up to ninety (90) days at its then-current rates;
+(e) All licenses granted under Section 4 shall survive with respect to Deliverables for which full payment has been made.
+
+9.6 Survival. Sections 1, 4, 5, 6.4, 7, 8, 9.5, 9.6, 10, and 11 shall survive termination or expiration of this Agreement.
+
+10. DISPUTE RESOLUTION
+
+10.1 Escalation. The Parties shall first attempt to resolve any dispute through good-faith negotiations between designated senior management representatives. Each Party shall designate its representative within five (5) business days of a written dispute notice.
+
+10.2 Mediation. If the dispute is not resolved within thirty (30) days of the escalation notice, either Party may initiate mediation under the Commercial Mediation Rules of the American Arbitration Association.
+
+10.3 Arbitration. If mediation does not resolve the dispute within sixty (60) days, the dispute shall be submitted to binding arbitration under the AAA Commercial Arbitration Rules, conducted by a single arbitrator in Raleigh, North Carolina.
+
+10.4 Injunctive Relief. Notwithstanding the foregoing, either Party may seek injunctive or equitable relief in any court of competent jurisdiction for breaches of Sections 4 or 5.
+
+10.5 Attorneys' Fees. The prevailing Party in any arbitration or litigation shall be entitled to recover its reasonable attorneys' fees and costs.
+
+11. GENERAL PROVISIONS
+
+11.1 Governing Law. This Agreement shall be governed by the laws of the State of North Carolina, without regard to conflict of laws principles.
+
+11.2 Independent Contractor. The Service Provider is an independent contractor and not an employee, agent, or partner of the Client. Neither Party has the authority to bind the other.
+
+11.3 Insurance. The Service Provider shall maintain throughout the term:
+(a) Commercial general liability insurance: $2,000,000 per occurrence;
+(b) Professional liability (errors and omissions) insurance: $5,000,000 per claim;
+(c) Cyber liability insurance: $5,000,000 per claim;
+(d) Workers' compensation insurance as required by law.
+The Service Provider shall provide certificates of insurance upon request.
+
+11.4 Non-Solicitation. During the term and for twelve (12) months thereafter, neither Party shall directly solicit for employment any employee of the other Party who was involved in the performance of services under this Agreement, without the other Party's prior written consent. This restriction does not apply to general recruitment advertising.
+
+11.5 Assignment. Neither Party may assign this Agreement without the other Party's prior written consent, except in connection with a merger, acquisition, or sale of substantially all assets. Any attempted assignment in violation of this Section shall be void.
+
+11.6 Notices. All notices shall be in writing and delivered by certified mail, overnight courier, or email with confirmed receipt to the addresses set forth above, or to such other address as a Party may designate in writing.
+
+11.7 Entire Agreement. This Agreement, together with all SOWs and exhibits, constitutes the entire agreement between the Parties and supersedes all prior agreements and communications regarding the subject matter hereof.
+
+11.8 Amendment. This Agreement may only be amended by a written instrument signed by authorized representatives of both Parties.
+
+11.9 Severability. If any provision is held invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+11.10 Waiver. No waiver of any right shall be effective unless in writing. A waiver of any breach shall not constitute a waiver of any subsequent breach.
+
+11.11 Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+VERTEX DATA SOLUTIONS INC.                MERIDIAN HEALTHCARE SYSTEMS
+By: ___________________________            By: ___________________________
+Name: Patricia Alvarez                     Name: Dr. James Thornton
+Title: Chief Operating Officer              Title: Chief Digital Officer
+Date: April 15, 2024                       Date: April 15, 2024
