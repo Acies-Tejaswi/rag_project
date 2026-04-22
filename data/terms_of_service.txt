@@ -1,0 +1,168 @@
+TERMS OF SERVICE
+
+Last Updated: August 15, 2024
+Version 4.2
+
+Welcome to SkillForge, an online learning and certification platform operated by SkillForge Inc., a Delaware corporation ("Company," "we," "us," or "our"). These Terms of Service ("Terms") govern your access to and use of the SkillForge platform, including our website at www.skillforge.io, mobile applications, APIs, and all related services (collectively, the "Platform").
+
+BY CREATING AN ACCOUNT OR USING THE PLATFORM, YOU AGREE TO BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE, DO NOT USE THE PLATFORM.
+
+1. ELIGIBILITY AND ACCOUNT REGISTRATION
+
+1.1 Eligibility. You must be at least eighteen (18) years old and have the legal capacity to enter into binding agreements to use the Platform. If you are using the Platform on behalf of an organization, you represent that you have the authority to bind that organization to these Terms.
+
+1.2 Account Creation. To access certain features, you must create an account by providing accurate and complete information. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+
+1.3 Enterprise Accounts. Organizations may create Enterprise Accounts to manage access for multiple users ("Team Members"). The Enterprise Account administrator ("Admin") is responsible for managing Team Members and ensuring compliance with these Terms. The Admin may:
+(a) Add or remove Team Members;
+(b) Assign course enrollments and learning paths;
+(c) Access aggregated usage data and completion reports for Team Members;
+(d) Manage billing and subscription settings.
+
+1.4 Account Security. You must immediately notify us of any unauthorized use of your account. We are not liable for any loss arising from unauthorized use of your account where you have failed to maintain the security of your credentials.
+
+2. SUBSCRIPTION PLANS AND FEES
+
+2.1 Plan Types. The Platform offers the following subscription plans:
+(a) Individual Free: Limited access to select courses, no certification;
+(b) Individual Pro: $29 per month or $249 per year, full course access, certifications, and priority support;
+(c) Enterprise: Custom pricing based on the number of seats, starting at $15 per user per month (minimum 25 seats), includes admin dashboard, SSO integration, custom learning paths, and dedicated account manager;
+(d) Academic: Discounted rates for accredited educational institutions, available upon application.
+
+2.2 Billing. Subscriptions are billed in advance on a monthly or annual basis, depending on the plan selected. Enterprise subscriptions are billed annually. All fees are quoted in U.S. dollars.
+
+2.3 Auto-Renewal. All paid subscriptions automatically renew at the end of each billing cycle unless cancelled before the renewal date. You may cancel at any time through your account settings or by contacting support@skillforge.io.
+
+2.4 Refund Policy. Individual subscriptions may be cancelled for a full refund within fourteen (14) days of the initial purchase or renewal ("Cooling-Off Period"), provided you have not completed more than twenty percent (20%) of any enrolled course during that period. Enterprise subscriptions are non-refundable except as provided in the applicable Enterprise Agreement.
+
+2.5 Price Changes. We may change our pricing at any time. For existing subscribers, price changes will take effect at the beginning of the next billing cycle following at least thirty (30) days' notice.
+
+2.6 Taxes. Fees are exclusive of applicable taxes. You are responsible for all sales, use, VAT, GST, and similar taxes.
+
+3. CONTENT AND INTELLECTUAL PROPERTY
+
+3.1 Platform Content. All content available on the Platform, including but not limited to courses, videos, quizzes, assessments, articles, code exercises, and documentation ("Platform Content"), is owned by or licensed to the Company and is protected by copyright, trademark, and other intellectual property laws.
+
+3.2 Instructor Content. Courses may be created by third-party instructors ("Instructors") who license their content to the Company pursuant to separate Instructor Agreements. Instructors retain ownership of their original content but grant the Company a worldwide, non-exclusive, royalty-bearing license to host, distribute, and make available such content through the Platform.
+
+3.3 User License. Subject to these Terms and payment of applicable fees, we grant you a limited, non-exclusive, non-transferable, revocable license to access and view Platform Content solely for your personal, non-commercial educational purposes. This license does not include the right to:
+(a) Download, copy, reproduce, or distribute Platform Content, except where expressly permitted by a download feature;
+(b) Modify, adapt, or create derivative works of Platform Content;
+(c) Use Platform Content for commercial training or resale;
+(d) Remove any copyright or proprietary notices;
+(e) Share your account credentials or allow others to access the Platform through your account;
+(f) Use automated tools (bots, scrapers, crawlers) to access or extract content from the Platform.
+
+3.4 Certifications. Certifications issued upon course completion are the intellectual property of the Company. You may display certifications on professional profiles and resumes. Certifications are non-transferable and may be revoked if obtained through fraud, cheating, or violation of these Terms.
+
+3.5 User-Generated Content. You may submit comments, reviews, forum posts, code submissions, and other content ("User Content"). By submitting User Content, you grant the Company a worldwide, perpetual, irrevocable, royalty-free license to use, reproduce, modify, display, and distribute your User Content in connection with the Platform. You represent that you own or have the necessary rights to your User Content and that it does not infringe any third-party rights.
+
+3.6 DMCA Policy. We respect intellectual property rights. If you believe content on the Platform infringes your copyright, please submit a notice to our designated DMCA agent at dmca@skillforge.io, including:
+(a) Identification of the copyrighted work;
+(b) Identification of the infringing material and its location on the Platform;
+(c) Your contact information;
+(d) A statement of good faith belief that the use is not authorized;
+(e) A statement under penalty of perjury that the information is accurate;
+(f) Your physical or electronic signature.
+
+4. ACCEPTABLE USE
+
+4.1 Prohibited Conduct. You agree not to:
+(a) Use the Platform for any unlawful purpose;
+(b) Share, sell, or transfer your account access;
+(c) Cheat on assessments or submit work that is not your own;
+(d) Harass, threaten, or abuse other users;
+(e) Upload malicious code or interfere with the Platform's operation;
+(f) Attempt to circumvent security measures, DRM, or access restrictions;
+(g) Scrape, crawl, or use automated means to access the Platform;
+(h) Impersonate any person or entity;
+(i) Use the Platform to compete with or replicate our services;
+(j) Post false reviews or manipulate course ratings.
+
+4.2 Enforcement. We may, at our sole discretion, suspend or terminate your account for violations of these Terms. In cases of academic dishonesty, we may revoke certifications and notify your employer or educational institution if you enrolled through an Enterprise or Academic plan.
+
+5. PRIVACY AND DATA PROTECTION
+
+5.1 Privacy Policy. Our collection and use of personal information is governed by our Privacy Policy, available at www.skillforge.io/privacy, which is incorporated into these Terms by reference.
+
+5.2 Data Processing. For Enterprise customers in the European Economic Area, we process personal data in accordance with our Data Processing Agreement, available upon request.
+
+5.3 Data Retention. We retain account data for as long as your account is active, and for a period of three (3) years following account closure, unless longer retention is required by law or for legitimate business purposes.
+
+5.4 Data Portability. You may request a copy of your personal data in a machine-readable format at any time by contacting privacy@skillforge.io. We will respond within thirty (30) days.
+
+5.5 Analytics. We collect anonymized and aggregated usage data to improve the Platform. Enterprise Admins have access to usage analytics for their Team Members, including course progress, completion rates, assessment scores, and learning time.
+
+6. THIRD-PARTY INTEGRATIONS
+
+6.1 SSO and LMS Integration. The Platform supports integration with third-party single sign-on (SSO) providers, learning management systems (LMS), and HR platforms. These integrations are provided "as is" and we do not guarantee compatibility with all third-party systems.
+
+6.2 Third-Party Links. The Platform may contain links to third-party websites or services. We do not endorse or assume responsibility for any third-party content, products, or services.
+
+6.3 API Access. Enterprise customers may access our API subject to the API Terms of Use, available at www.skillforge.io/api-terms. API access is rate-limited and subject to fair use policies.
+
+7. WARRANTIES AND DISCLAIMERS
+
+7.1 Platform Availability. We strive to maintain the Platform's availability but do not guarantee uninterrupted or error-free service. We may suspend the Platform for maintenance with reasonable advance notice where practicable.
+
+7.2 Content Accuracy. Platform Content is provided for educational purposes only and does not constitute professional advice. We do not guarantee that courses are current, complete, or error-free. You are responsible for evaluating the applicability of any content to your specific circumstances.
+
+7.3 Disclaimer. THE PLATFORM AND ALL CONTENT ARE PROVIDED "AS IS" AND "AS AVAILABLE." TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ACCURACY.
+
+7.4 Certification Value. We do not guarantee that certifications will be recognized by any employer, educational institution, or professional body. The value of certifications depends on market conditions and employer preferences, which are beyond our control.
+
+8. LIMITATION OF LIABILITY
+
+8.1 Cap. TO THE MAXIMUM EXTENT PERMITTED BY LAW, OUR TOTAL LIABILITY ARISING OUT OF OR RELATING TO THESE TERMS SHALL NOT EXCEED THE GREATER OF (A) THE FEES PAID BY YOU IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM OR (B) ONE HUNDRED DOLLARS ($100).
+
+8.2 Exclusion. WE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOSS OF PROFITS, DATA, OPPORTUNITIES, OR GOODWILL, REGARDLESS OF WHETHER WE WERE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8.3 Exceptions. The limitations in this Section 8 do not apply to our liability for fraud, gross negligence, willful misconduct, or any liability that cannot be excluded under applicable law.
+
+9. INDEMNIFICATION
+
+9.1 You agree to indemnify, defend, and hold harmless the Company, its officers, directors, employees, and agents from any claims, losses, damages, liabilities, and expenses (including reasonable attorneys' fees) arising from:
+(a) Your violation of these Terms;
+(b) Your User Content;
+(c) Your violation of any third-party rights;
+(d) Your misuse of the Platform.
+
+10. DISPUTE RESOLUTION
+
+10.1 Informal Resolution. Before filing any claim, you must contact us at legal@skillforge.io and attempt to resolve the dispute informally for at least thirty (30) days.
+
+10.2 Arbitration. Any dispute that cannot be resolved informally shall be settled by binding arbitration under the AAA Consumer Arbitration Rules in Wilmington, Delaware. YOU AGREE TO WAIVE YOUR RIGHT TO A JURY TRIAL AND TO PARTICIPATE IN A CLASS ACTION.
+
+10.3 Class Action Waiver. YOU AGREE THAT ANY DISPUTE RESOLUTION PROCEEDINGS WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS, CONSOLIDATED, OR REPRESENTATIVE ACTION.
+
+10.4 Exceptions. The arbitration provisions do not apply to:
+(a) Claims for injunctive or equitable relief for intellectual property infringement;
+(b) Small claims court actions within the jurisdictional limits;
+(c) Claims that applicable law does not permit to be arbitrated.
+
+10.5 Governing Law. These Terms are governed by the laws of the State of Delaware, without regard to conflict of laws principles.
+
+11. CHANGES TO TERMS
+
+11.1 We may update these Terms from time to time. Material changes will be communicated via email or in-platform notification at least thirty (30) days before they take effect. Your continued use of the Platform after the effective date constitutes acceptance of the updated Terms.
+
+11.2 If you do not agree to the updated Terms, you must stop using the Platform before the effective date. Paid subscribers who do not agree to material changes may cancel for a pro-rata refund of prepaid fees.
+
+12. GENERAL PROVISIONS
+
+12.1 Entire Agreement. These Terms, together with the Privacy Policy, Order Form (if applicable), and any Enterprise Agreement, constitute the entire agreement between you and the Company.
+
+12.2 Severability. If any provision is found unenforceable, the remaining provisions remain in effect.
+
+12.3 Waiver. Our failure to enforce any provision does not constitute a waiver of future enforcement.
+
+12.4 Assignment. You may not assign your rights under these Terms. We may assign our rights in connection with a merger, acquisition, or sale of assets.
+
+12.5 Force Majeure. We shall not be liable for delays or failures resulting from circumstances beyond our reasonable control.
+
+12.6 Contact. For questions about these Terms, contact us at:
+    SkillForge Inc.
+    legal@skillforge.io
+    1209 Orange Street, Wilmington, DE 19801
+
+12.7 Survival. Sections 3 (Intellectual Property), 5 (Privacy), 7 (Disclaimers), 8 (Limitation of Liability), 9 (Indemnification), 10 (Dispute Resolution), and 12 (General Provisions) survive any termination or expiration of these Terms.
